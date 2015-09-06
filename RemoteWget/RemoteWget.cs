@@ -11,9 +11,9 @@ using Renci.SshNet;
 
 namespace RemoteWget
 {
-    public partial class Form1 : Form
+    public partial class RemoteWget : Form
     {
-        public Form1()
+        public RemoteWget()
         {
             InitializeComponent();
             textBoxServer.Text = Properties.Settings.Default.Server;

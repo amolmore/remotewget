@@ -1,6 +1,6 @@
 ﻿namespace RemoteWget
 {
-    partial class Form1
+    partial class RemoteWget
     {
         /// <summary>
         /// Required designer variable.
